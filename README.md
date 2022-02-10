@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Alecsis
+- 📍 I live in Paris, France 🇫🇷
+- 💼 I'm currently working at [//Halborn](https://halborn.com/), hacking blockchains for fun & profit
+- 📖 I graduated from CentraleSupelec in engineering
+- 🌱 I will never stop learning
 - 👀 I’m interested in infosec, AI and crypto
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on my life first...
 - 📫 How to reach me: twitter @Alecsi_
 
 <!---
