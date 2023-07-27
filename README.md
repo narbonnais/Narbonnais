@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Narbonnais
-- 📍 I live in Paris, France 🇫🇷
+- 👋 Hi, I’m @Narbonnais 🇫🇷
+- 📍 I live in Seoul, Korea 🇰🇷
 - 💼 I'm currently working at [//Halborn](https://halborn.com/), hacking blockchains for fun & profit
 - 📖 I graduated from CentraleSupelec in engineering
 - 🌱 I will never stop learning
